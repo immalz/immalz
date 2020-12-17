@@ -1,8 +1,9 @@
 ## ⚡ Technologies
 
 
-![Java](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=TypeScript)
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=Angular)
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstrudiocode)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
