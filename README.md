@@ -6,7 +6,6 @@
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstrudiocode)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![ILove](https://img.shields.io/badge/-I🤍BlackColor-black?style=flat-square&logo=🤍)
 
 <a href="https://github.com/immalz/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=immalz&show_icons=true&theme=gotham"/>
