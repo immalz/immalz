@@ -1,7 +1,7 @@
 ## ⚡ Technologies
 
 
-![Java](https://img.shields.io/badge/-Java(JDK)-black?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visualstrudiocode)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
