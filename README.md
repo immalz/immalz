@@ -13,5 +13,5 @@
 </a>
 
 <a href="https://github.com/JosephRiosHenao/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephRiosHenao&layout=compact&show_icons=true&theme=gotham"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=immalz&layout=compact&show_icons=true&theme=gotham"/>
 </a>
